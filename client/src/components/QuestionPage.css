@@ -26,3 +26,10 @@
 input {
   width: 3rem;
 }
+
+@media screen and (max-width: 768px) {
+  .math-content {
+    flex-direction: column;
+  }
+}
+
