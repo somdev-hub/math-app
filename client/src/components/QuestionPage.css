@@ -1,0 +1,28 @@
+.math-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.beforeclick {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.afterclick{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.numbers {
+  font-size: 2rem;
+}
+
+input {
+  width: 3rem;
+}
